@@ -11,7 +11,7 @@ Spring 2022
 
 ---
 
-Section 701  
+Section 701
 CRN: 43033
 
 ## Douglas Clayton Smith  
@@ -23,7 +23,7 @@ Professor of Sociology
 | Western Kentucky University | Personal Webpage:  [http://people.wku.edu/douglas.smith/](people.wku.edu/douglas.smith/) |
 | 1906 College Heights Blvd. \#11057 Bowling Green, KY 42101-1057 | Class Webpage: [wku.blackboard.com](wku.blackboard.com) |
 
-**Office Hours:** I will be available Mondays and Wednesdays between 9:00&#151;10:00 AM and between 12:30&#151;1:00 PM or by appointment on Zoom.
+**Office Hours:** I will be available Mondays and Wednesdays between 9:00&mdash;10:00 AM and between 12:30&mdash;1:00 PM or by appointment on Zoom.
 
 **WKU Catalog Description:** Examines the causes, dynamics, and consequences of socio-economic change for people, how they live in communities, and how they relate to the natural world. Survey course for "Community, Environment, & Development" concentration.
 
@@ -74,7 +74,7 @@ When reading you should consider the following:
  - How does this reading relate to other readings we have done?
  - What are the strengths and weaknesses of this argument and any data supporting it?  Are terms defined clearly and used consistently? \(If not, what problems does this create?\)
  - Are terms defined and used the same way as in the other readings?  Would other authors we have read agree/disagree with this argument?  Why?
- - What additional questions does this reading raise for you?  \(Or put another way: if you and the author were stranded on a desert isle, what question would you most like to ask him or her \(besides "Do you have a boat?\)?
+ - What additional questions does this reading raise for you?  \(Or put another way: if you and the author were stranded on a desert isle, what question would you most like to ask him or her besides "Do you have a boat?\)?
  - How could you use the ideas in addressing real world problems? 
 
 ## **COURSE ORGANIZATION: **
@@ -99,7 +99,7 @@ Drawing from the readings and the class lectures, what are the tools used for sc
 
 # **IV. Exams \(40 points\)**
 
-Exam &#151; Released at the end of Week 4 and the beginning of Week 10 \(10 points each\)
+Exam &mdash; Released at the end of Week 4 and the beginning of Week 10 \(10 points each\)
 
 Final Exam \(20 points\).
 
@@ -109,90 +109,19 @@ Final Exam \(20 points\).
 
 **Dates** | **Questions** | **Readings**
 --- | --- | ---
-Week 1<br />Jan. 19 &#151; Jan. 21 | **Theories and Disciplines**<br />What is Sociology?<br />What is Environmental Sociology? | <ul><li>C. Wright Mills, "The Promise"</li><li>Pellow, D. and N. Brehm. 2013. "An Environmental Sociology for the 21st Century."</li><li>Podcast on *The Social Breakdown*: \(Don't\) Ask a Sociologist, Episode 1: What is society?</li></ul>
-Week 2<br />Jan. 24 &#151; Jan. 28 |**Terms and Definitions**<br />What do sociologists mean by community?<br />What do sociologists mean by environment? | <ul><li>Theodori, Gene and Gerard T. Kyle. "Community, Place, and Decision-Making"</li><li>Emery, Mary, Susan Fey, and Cornelia Flora. 2006. "Using the Community Capitals Framework in Asset-based Community Development." Pp. 5-7 in "Using Community Capitals to Develop Assets for Positive Community Change" *CD Practice* No. 13.</li><li>Bell, Michael Mayerfield. 2009. Selections from "Chapter 1: Environmental Problems and Society" of *An Invitation to Environmental Sociology*. Los Angeles: Pine Forge.</li><li>BONUS: To tie community, memory, heritage and environment all together check out the Podcast &#151; [*Seed Memory: a podcast on heritage, ecology and community*](https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community), especially Episode 2: Solutions and problems of industrial heritage and Episode 3: Emotions and heritage.</li></ul>
-Week 3 <br />Jan. 31 &#151; Feb. 4 | **Community and the Persistence of Inequality**<br />What is intersectionality? | <ul><li>Omi, Michael and Howard Winant, "Racial Formation" in *Racial Formation in the United States*.</li><li>Nakano Glenn, Evelyn. 2004. pp. 1-17 in *Unequal Freedom: How Race and Gender Shaped American Citizenship and Labor*.</li></ul>
-Week 4<br />Feb. 7 -- Feb. 11 | How do community, place, gender and race intersect? | <ul><li>Lipsitz, George. 2011. "Introduction: Race, Place, and Power." Pp. 1-21 in *How Racism Takes Place.* Philadelphia: Temple.</li><li>Thom El-Amin, Enkeshi. 2019. "Chocolate City Way Up South in Appalachia: Black Knoxville at the Intersection of Race, Place, and Region." PhD diss., University of Tennessee. (https://trace.tennessee.edu/utk\_graddiss/5340)[https://trace.tennessee.edu/utk_graddiss/5340].  Chapters 1 and 2.</li></ul>
+Week 1<br />Jan. 19 &mdash; Jan. 21 | **Theories and Disciplines**<br />What is Sociology?<br />What is Environmental Sociology? | <ul><li>C. Wright Mills, "The Promise"</li><li>Pellow, D. and N. Brehm. 2013. "An Environmental Sociology for the 21st Century."</li><li>Podcast on *The Social Breakdown*: \(Don't\) Ask a Sociologist, Episode 1: What is society?</li></ul>
+Week 2<br />Jan. 24 &mdash; Jan. 28 |**Terms and Definitions**<br />What do sociologists mean by community?<br />What do sociologists mean by environment? | <ul><li>Theodori, Gene and Gerard T. Kyle. "Community, Place, and Decision-Making"</li><li>Emery, Mary, Susan Fey, and Cornelia Flora. 2006. "Using the Community Capitals Framework in Asset-based Community Development." Pp. 5-7 in "Using Community Capitals to Develop Assets for Positive Community Change" *CD Practice* No. 13.</li><li>Bell, Michael Mayerfield. 2009. Selections from "Chapter 1: Environmental Problems and Society" of *An Invitation to Environmental Sociology*. Los Angeles: Pine Forge.</li><li>BONUS: To tie community, memory, heritage and environment all together check out the Podcast &mdash; [*Seed Memory: a podcast on heritage, ecology and community*](https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community), especially Episode 2: Solutions and problems of industrial heritage and Episode 3: Emotions and heritage.</li></ul>
+Week 3 <br />Jan. 31 &mdash; Feb. 4 | **Community and the Persistence of Inequality**<br />What is intersectionality? | <ul><li>Omi, Michael and Howard Winant, "Racial Formation" in *Racial Formation in the United States*.</li><li>Nakano Glenn, Evelyn. 2004. pp. 1-17 in *Unequal Freedom: How Race and Gender Shaped American Citizenship and Labor*.</li></ul>
+Week 4<br />Feb. 7 -- Feb. 11 | How do community, place, gender and race intersect? | <ul><li>Lipsitz, George. 2011. "Introduction: Race, Place, and Power." Pp. 1-21 in *How Racism Takes Place.* Philadelphia: Temple.</li><li>Thom El-Amin, Enkeshi. 2019. "Chocolate City Way Up South in Appalachia: Black Knoxville at the Intersection of Race, Place, and Region." PhD diss., University of Tennessee. [trace.tennessee.edu/utk\_graddiss/5340](https://trace.tennessee.edu/utk_graddiss/5340). Chapters 1 and 2.</li></ul>
+Week 5<br />Feb. 14 -- Feb. 18 | **Natural\(?\) Disasters**<br />What is so natural about natural disasters? | <ul><li>Gill, Duane. 2007. "Secondary Trauma or Secondary Disaster? Insights from Hurricane Katrina." *Sociological Spectrum* 27:613-632.</li><li>Bullard, Robert D. and Beverly Wright. 2009. "Introduction" and "Race, Place, and the Environment in Post-Katrina New Orleans" pp. 1-49 in *Race, Place, and Environmental Justice after Hurricane Katrina: Struggles to Reclaim, Rebuild, and Revitalize New Orleans and the Gulf Coast.*</li><li>New York: Routledge. *Radio Interview*: "Hurricane Laura Devastates Gulf Coast, Laying Bare Climate Crisis, Environmental Racism".</li><li>Documentary Film: [Cooked: Survival by Zip Code](https://www.youtube.com/watch?v=uy5O1DxeqG0)</li></ul>
+Week 6<br />Feb. 21 -- Feb. 25 | **Social Ecological Determinants of Health**<br />What is Environmental Justice?<br />What is the relationship between race, health, and the environment? | <ul><li>Mohai, Paul. 2018. "Environmental Justice and the Flint Water Crisis." *Michigan Sociological Review* 32: 1-41.</li><li>Boles, Sydney. 2019. "First These Kentuckians Couldn't Drink the Water. Now They Can't Afford It." NPR.</li><li>Dillon and Sze. 2016. "Police Power and Particulate Matters: Environmental Justice and the Spatialities of In/Securities in U.S. Cities."</li><li>Norgaard, Kari Marie, Ron Reed, and Carolina Van Horn. 2011. "A Continuing Legacy: Institutional Racism, Hunger, and Nutritional Justice on the Klamath."Pp. 23-46 in *Cultivating Food Justice: Race, Class, and Sustainability.* Cambridge, MA: The MIT Press.</li><li>Documentary Film: Rubbertown</li></ul>
+Week 7<br />Feb. 28 -- Mar. 4 | **Land Resources and Management**<br />Who manages natural resources?<br />How are these resources managed? | <ul><li>Lievanos, Raoul S. and Christine Horne. 2017. "Unequal Resilience: The Duration of Electricity Outages." *Energy Policy* 108:201-211.</li><li>Calkin, David E., Matthew P. Thompson, and Mark A. Finney. 2015. "Negative Consequences of Positive Feedbacks in US Wildfire Management." *Forest Ecosystems* 2:9.</li></ul>
+Week 8<br />Mar. 7 -- Mar. 11 | **Agriculture and Food Systems**<br />What does our food system look like? | <ul><li>Documentary Film: [Food Chains](https://www.youtube.com/watch?v=6vw-qTCW8fo)</li><li>Howard, Philip. 2016. "Food System Concentration: A Political Economy Perspective." pp. 1-16 in *Concentration and Power in the Food System: Who Controls What We Eat?* London: Bloomsbury.</li><li>[Mitchell, Dan "Calculating the Hidden Costs of Industrial Farming"](https://civileats.com/2016/07/20/this-study-could-help-us-numbers-on-the-true-cost-of-food/)</li></ul>   
+Week 9<br />Mar. 14 -- Mar. 18 | --- | **SPRING BREAK**
+Week 10<br />Mar. 21 -- Mar. 25 | **The Challenge of Growth and Development**<br />What is sustainability?<br />What is development? | <ul><li>Hooks, Gregory and Chad L. Smith. 2004. "The Treadmill of Destruction: National Sacrifice Areas and Native Americans" *American Sociological Review* 69:558-575.</li><li>Jorgenson, Andrew K. and Brett Clark. 2012. "Are the Economy and the Environment Decoupling? A Comparative International Study, 1960-2005." *American Journal of Sociology* 118\(1\):1-44.</li></ul>     
+Week 11<br />Mar. 28 -- Apr. 1 | **Climate Change**<br />Why is climate change so contentious?<br />What does the sociological evidence say are the most powerful drivers of climate change beliefs? | <ul><li>Givens, Jennifer E. 2014. "Drivers of Climate Change Beliefs." *Nature Climate Change* 4:1051-1052.</li><li>Klein, Naomi. 2014. "The Right is Right: The Revolutionary Power of Climate Change." pp. 31-63 in *This Changes Everything: Capitalism vs. The Climate.* New York: Simon and Schuster.</li><li>Norgaard, Kari Marie. 2017. "The Sociological Imagination in a Time of Climate Change." *Global and Planetary Change http://dx.doi.org/10.1016/j.gloplacha.2017.09.018*</li></ul>
 
-Week 5 
-
-Feb. 14 -- Feb. 18
-**Natural\(?\) Disasters** 
-What is so natural about natural disasters?
-Gill, Duane. 2007. "Secondary Trauma or Secondary Disaster? Insights from Hurricane Katrina." *Sociological Spectrum* 27:613-632. Bullard, Robert D. and Beverly Wright. 2009. "Introduction" and "Race, Place, and the Environment in Post-Katrina New Orleans" pp. 1-49 in *Race, Place, and Environmental Justice after Hurricane Katrina: Struggles to Reclaim, Rebuild, and Revitalize New Orleans and the Gulf Coast. *New York: Routledge. *Radio Interview*: "Hurricane Laura Devastates Gulf Coast, Laying Bare Climate Crisis, Environmental Racism". Documentary Film: Cooked: Survival by Zip Code      
-Week 6 
-
-Feb. 21 -- Feb. 25
-
-
-**Social Ecological Determinants of Health**
-
-What is Environmental Justice? 
-
-What is Environmental Racism? 
-
-
-What is the relationship between race, health, and the environment?
-Mohai, Paul. 2018. "Environmental Justice and the Flint Water Crisis." *Michigan Sociological Review* 32: 1-41. Boles, Sydney. 2019. "First These Kentuckians Couldn't Drink the Water. Now They Can't Afford It." NPR. Dillon and Sze. 2016. "Police Power and Particulate Matters: Environmental Justice and the Spatialities of In/Securities in U.S. Cities." Norgaard, Kari Marie, Ron Reed, and Carolina Van Horn. 2011. "A Continuing Legacy: Institutional Racism, Hunger, and Nutritional Justice on the Klamath."Pp. 23-46 in *Cultivating Food Justice: Race, Class, and Sustainability.* Cambridge, MA: The MIT Press.  Documentary Film: Rubbertown     
-Week 7
-
-Feb. 28 -- Mar. 4
-
-
-**Land Resources and Management**
-
-Who manages natural resources?
-
-
-How are these resources managed? 
-Lievanos, Raoul S. and Christine Horne. 2017. "Unequal Resilience: The Duration of Electricity Outages." *Energy Policy *108:201-211. Calkin, David E., Matthew P. Thompson, and Mark A. Finney. 2015. "Negative Consequences of Positive Feedbacks in US Wildfire Management." *Forest Ecosystems* 2:9.      
-Week 8 
-
-Mar. 7 -- Mar. 11
-
-
-**Agriculture and Food Systems**
-
-
-What does our food system look like? 
-Documentary Film: Food Chains Howard, Philip. 2016. "Food System Concentration: A Political Economy Perspective." pp. 1-16 in *Concentration and Power in the Food System: Who Controls What We Eat? *London: Bloomsbury. Mitchell, Dan "Calculating the Hidden Costs of Industrial Farming"     
-Week 9
-
-Mar. 14 -- Mar. 18
-  
-
-## **SPRING BREAK**
-
-
-Week 10 
-
-Mar. 21 -- Mar. 25
-
-
-**The Challenge of Growth and Development**
-
-What is sustainability? 
-
-
-What is development?
-Hooks, Gregory and Chad L. Smith. 2004. "The Treadmill of Destruction: National Sacrifice Areas and Native Americans" *American Sociological Review* 69:558-575. Jorgenson, Andrew K. and Brett Clark. 2012. "Are the Economy and the Environment Decoupling? A Comparative International Study, 1960-2005." *American Journal of Sociology *118\(1\):1-44.     
-Week 11
-
-Mar. 28 -- Apr. 1
-
-
-**Climate Change** 
-
-Why is climate change so contentious?
-
-
-What does the sociological evidence say are the most powerful drivers of climate change beliefs?
-Givens, Jennifer E. 2014. "Drivers of Climate Change Beliefs." *Nature Climate Change* 4:1051-1052. Klein, Naomi. 2014. "The Right is Right: The Revolutionary Power of Climate Change." pp. 31-63 in *This Changes Everything: Capitalism vs. The Climate. *New York: Simon and Schuster. Norgaard, Kari Marie. 2017. "The Sociological Imagination in a Time of Climate Change." *Global and Planetary Change http://dx.doi.org/10.1016/j.gloplacha.2017.09.018*     
-
-Week 12 
-
-
-Apr. 4 -- Apr. 8
+Week 12<br />Apr. 4 -- Apr. 8
 
 
 **Globalization**
@@ -211,7 +140,7 @@ Apr. 11 -- Apr. 15
 How does globalization and capitalism affect women?
 Shiva, Vandana. 2016. *Stolen Harvest: The Hijacking of the Global Food Supply. *Lexington, KY: University Press of Kentucky. pp. 58-127.     Week 14 
 Apr. 18 -- Apr. 22
-**So****lutions**     Putnam, Robert. 2020. "Chapter 1. What's Past is Prologue" and "Chapter 9: Drift and Mastery" in *The Upswing: How America Came Together a Century Ago and How We Can Do It Again*. New York: Simon and Schuster. Boyte, Harry C. 2008. "Citizen Professionals" Pp. 143-157 in *The Citizen Solution*. Minnesota Historical Society Press.     
+**Solutions**     Putnam, Robert. 2020. "Chapter 1. What's Past is Prologue" and "Chapter 9: Drift and Mastery" in *The Upswing: How America Came Together a Century Ago and How We Can Do It Again*. New York: Simon and Schuster. Boyte, Harry C. 2008. "Citizen Professionals" Pp. 143-157 in *The Citizen Solution*. Minnesota Historical Society Press.     
 
 Week 15
 
@@ -222,375 +151,6 @@ Apr. 26 -- Apr. 30
      Boyte, Harry C. 2008. "Renewing Government of the People" Pp. 159-187 in *The Citizen Solution*. Minnesota Historical Society Press. Kristoff, Nicholas D. and Sheryl WuDunn. 2014. "A Giving Code" Pp. 301-315 in *A Path Appears: Transforming Lives, Creating Opportunity*. New York: Vintage. Birdsong, Mia. 2020. "How We Show Up." Pp. 221-231 in *How We Show Up: Reclaiming Family, Friendship and Community*. New York: Hachette. White, Monica M. 2011. "D-Town Farm: African American Resistance to Food Insecurity and the Transformation of Detroit." *Environmental Practice* 13\(14\):406-417.     Week 16 
 May 2 -- May 5
 **Final Exam**    
-
----
-
-<table BORDER="1" CELLSPACING="2" CELLPADDING="6" WIDTH="101%" height="1240" bgcolor="#BCAB69" bordercolordark="#333333" bordercolorlight="#666633">
-  <tr>
-    <td WIDTH="13%" height="1"><!--mstheme--><font face="Times New Roman, Times"><font size="4" face="Frutiger Linotype"><b>Dates</b></font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="1"><!--mstheme--><font face="Times New Roman, Times"><font size="4" face="Frutiger Linotype"><b>Questions</b></font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="1"><!--mstheme--><font face="Times New Roman, Times"><font size="4" face="Frutiger Linotype"><b>Readings</b></font><!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td WIDTH="13%" height="1"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Week 1</font>
-      <p><font face="Frutiger Linotype" size="4">Jan. 19 -- Jan. 21</font></p>
-    <!--mstheme--></font></td>
-    <td WIDTH="21%" height="1"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4" color="#990000"><b>Theories
-      and Disciplines</b></font>
-      <p><font face="Frutiger Linotype" size="4">What is Sociology?</font></p>
-      <p><font face="Frutiger Linotype" size="4">What is Environmental
-      Sociology?</font></p>
-    <!--mstheme--></font></td>
-    <td WIDTH="67%" height="1"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times">
-          <p><font size="4" face="Frutiger Linotype">C. Wright Mills, &quot;The
-          Promise&quot;</font></p>
-        <!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times">
-          <p><font size="4" face="Frutiger Linotype">Pellow, D. and N. Brehm.
-          2013. &quot;An Environmental Sociology for the 21st Century.&quot;</font></p>
-        <!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times">
-          <p><font size="4" face="Frutiger Linotype">Podcast on <i>The Social
-          Breakdown</i>: (Don't) Ask a
-          Sociologist, Episode 1: What is society?&nbsp;</font></p>
-        <!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-    <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 2</font></font>
-    <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Jan. 24 -- Jan. 28</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="29"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Terms
-      and Definitions</b></font>
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What do
-      sociologists mean by
-      community?&nbsp;</font>
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What do
-      sociologists mean by
-      environment?&nbsp;</font>
-  <!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Theodori, Gene and Gerard T.
-          Kyle. &quot;Community, Place, and Decision-Making&quot;</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Emery, Mary, Susan Fey, and
-          Cornelia Flora. 2006. &quot;Using the Community Capitals Framework in
-          Asset-based Community Development.&quot; Pp. 5-7 in &quot;Using
-          Community Capitals to Develop Assets for Positive Community
-          Change&quot; <i>CD Practice</i> No. 13.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Bell, Michael Mayerfield.
-          2009. Selections from &quot;Chapter 1: Environmental Problems and
-          Society&quot; of <i>An Invitation to Environmental Sociology</i>. Los
-          Angeles: Pine Forge.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">BONUS: To tie community,
-          memory, heritage and environment all together check out the Podcast --
-          <i><a href="https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community">Seed Memory:
-          a podcast on heritage, ecology and community</a></i><a href="https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community">,</a> especially Episode 2: Solutions and problems of
-          industrial heritage and Episode 3: Emotions and heritage.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 3</font></font>
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Jan. 31 -- Feb. 4</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Community
-      and the Persistence of Inequality</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is intersectionality?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Omi, Michael
-          and Howard Winant, &quot;Racial Formation&quot; in <i>Racial Formation
-          in the United States</i>.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Nakano
-          Glenn, Evelyn. 2004. pp. 1-17 in <i>Unequal Freedom: How Race and
-          Gender Shaped American Citizenship and Labor</i>.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="29"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 4</font></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Feb.
-    7 -- Feb. 11</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">How do
-      community, place, gender and race intersect?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Lipsitz, George. 2011.
-          &quot;Introduction: Race, Place, and Power.&quot; Pp. 1-21 in <i>How
-          Racism Takes Place.</i> Philadelphia: Temple.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Thom El-Amin, Enkeshi. 2019.
-          &quot;Chocolate City Way Up South in Appalachia: Black Knoxville at
-          the Intersection of Race, Place, and Region.&quot; PhD diss.,
-          University of Tennessee. <a href="https://trace.tennessee.edu/utk_graddiss/5340">https://trace.tennessee.edu/utk_graddiss/5340</a>.&nbsp;
-          Chapters 1 and 2.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 5</font></font>
-    <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Feb. 14 -- Feb. 18</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4" color="#990000"><b>Natural(?)
-      Disasters</b></font>
-      <p><font face="Frutiger Linotype" size="4">What is so natural about
-      natural disasters?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Gill, Duane. 2007.
-          &quot;Secondary Trauma or Secondary Disaster? Insights from Hurricane
-          Katrina.&quot; <i>Sociological Spectrum</i> 27:613-632.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Bullard,
-          Robert D. and Beverly Wright. 2009. &quot;Introduction&quot; and
-          &quot;Race, Place, and the Environment in Post-Katrina New
-          Orleans&quot; pp. 1-49 in <i>Race, Place, and Environmental Justice
-          after Hurricane Katrina: Struggles to Reclaim, Rebuild, and Revitalize
-          New Orleans and the Gulf Coast. </i>New York: Routledge.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><i><font face="Frutiger Linotype" size="4">Radio Interview</font></i><font face="Frutiger Linotype" size="4">:
-          &quot;Hurricane Laura Devastates Gulf Coast, Laying Bare Climate
-          Crisis, Environmental Racism&quot;.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Documentary Film: <a href="https://www.youtube.com/watch?v=uy5O1DxeqG0">Cooked:
-          Survival by Zip Code</a></font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 6</font></font>
-    <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Feb. 21 -- Feb. 25</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Social
-      Ecological Determinants of Health</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is Environmental Justice?&nbsp;</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is Environmental Racism?&nbsp;</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is the relationship between race, health, and the environment?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Mohai, Paul. 2018.
-          &quot;Environmental Justice and the Flint Water Crisis.&quot; <i>Michigan
-          Sociological Review</i> 32: 1-41.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Boles, Sydney. 2019.
-          &quot;First These Kentuckians Couldn't Drink the Water. Now They Can't
-          Afford It.&quot; NPR.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Dillon and Sze. 2016. &quot;Police Power and Particulate Matters:
-          Environmental Justice and the Spatialities of In/Securities in U.S.
-          Cities.&quot;</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Norgaard, Kari Marie, Ron
-          Reed, and Carolina Van Horn. 2011. &quot;A Continuing Legacy:
-          Institutional Racism, Hunger, and Nutritional Justice on the
-          Klamath.&quot;Pp. 23-46 in <i>Cultivating Food Justice: Race, Class,
-          and Sustainability.</i> Cambridge, MA: The MIT Press.&nbsp;</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Documentary Film: Rubbertown</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week
-      7</font></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Feb.
-    28 -- Mar. 4</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Land
-      Resources and Management</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Who
-      manages natural resources?</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">How
-      are these resources managed?&nbsp;</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Lievanos, Raoul S. and
-          Christine Horne. 2017. &quot;Unequal Resilience: The Duration of
-          Electricity Outages.&quot; <i>Energy Policy </i>108:201-211.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Calkin, David E., Matthew P.
-          Thompson, and Mark A. Finney. 2015. &quot;Negative Consequences of
-          Positive Feedbacks in US Wildfire Management.&quot; <i>Forest
-          Ecosystems</i> 2:9.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 8</font></font>
-    <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Mar. 7 -- Mar. 11</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Agriculture
-      and Food Systems</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      does our food system look like?&nbsp;</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Documentary Film: <a href="https://www.youtube.com/watch?v=6vw-qTCW8fo">Food
-          Chains</a></font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Howard, Philip. 2016.
-          &quot;Food System Concentration: A Political Economy
-          Perspective.&quot; pp. 1-16 in <i>Concentration and Power in the Food
-          System: Who Controls What We Eat? </i>London: Bloomsbury.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><a href="https://civileats.com/2016/07/20/this-study-could-help-us-numbers-on-the-true-cost-of-food/"><font face="Frutiger Linotype" size="4">Mitchell,
-          Dan &quot;Calculating the Hidden Costs of Industrial Farming&quot;</font></a><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 9</font></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Mar.
-    14 -- Mar. 18</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times">&nbsp;<!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <h2><!--mstheme--><font color="#003300"><font face="Frutiger Linotype">SPRING BREAK</font><!--mstheme--></font></h2>
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="1"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 10</font></font>
-    <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Mar. 21 -- Mar. 25</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="1"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>The
-      Challenge of Growth and Development</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is sustainability?&nbsp;</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is development?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="1"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Hooks, Gregory and Chad L.
-          Smith. 2004. &quot;The Treadmill of Destruction: National Sacrifice
-          Areas and Native Americans&quot; <i>American Sociological Review</i>
-          69:558-575.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Jorgenson, Andrew K. and
-          Brett Clark. 2012. &quot;Are the Economy and the Environment
-          Decoupling? A Comparative International Study, 1960-2005.&quot; <i>American
-          Journal of Sociology </i>118(1):1-44.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="18"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week
-      11</font></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Mar.
-    28 -- Apr. 1</font><!--mstheme--></font></td>
-    <td WIDTH="21%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Climate
-      Change</b></font>
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Why is climate
-      change so contentious?</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      does the sociological evidence say are the most powerful drivers of
-      climate change beliefs?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Givens, Jennifer E. 2014.
-          &quot;Drivers of Climate Change Beliefs.&quot; <i>Nature Climate
-          Change</i> 4:1051-1052.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Klein, Naomi. 2014.
-          &quot;The Right is Right: The Revolutionary Power of Climate
-          Change.&quot; pp. 31-63 in <i>This Changes Everything: Capitalism vs.
-          The Climate. </i>New York: Simon and Schuster.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Norgaard, Kari Marie. 2017.
-          &quot;The Sociological Imagination in a Time of Climate Change.&quot; <i>Global
-          and Planetary Change http://dx.doi.org/10.1016/j.gloplacha.2017.09.018</i></font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td WIDTH="13%" HEIGHT="15"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week 12</font>
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Apr. 4 -- Apr. 8</font><!--mstheme--></font></td>
-  <font face="Times New Roman, Times">
-    <td WIDTH="21%" HEIGHT="15"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Globalization</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">What
-      is globalization?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Shiva, Vandana. 2016. <i>Stolen
-          Harvest: The Hijacking of the Global Food Supply. </i>Lexington, KY:
-          University Press of Kentucky. pp. 1-57.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-    <!--mstheme--></font></td>
-  </font>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" height="19"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week
-      13</font></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Apr.
-    11 -- Apr. 15</font><!--mstheme--></font></td>
-  <font face="Times New Roman, Times">
-    <td WIDTH="21%" height="19"><!--mstheme--><font face="Times New Roman, Times">
-      <p ALIGN="LEFT"><font face="Frutiger Linotype" size="4" color="#990000"><b>Globalization
-      and Gender</b></font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">How
-      does globalization and capitalism affect women?</font><!--mstheme--></font></td>
-    <td WIDTH="67%" height="18"><!--mstheme--><font face="Times New Roman, Times">
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Shiva, Vandana. 2016. <i>Stolen
-          Harvest: The Hijacking of the Global Food Supply. </i>Lexington, KY:
-          University Press of Kentucky. pp. 58<font face="Times New Roman, Times">-</font>12</font><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">7.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-        <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-    </font><!--mstheme--></font></td>
-  </font>
-  </tr>
-  <font face="Times New Roman, Times">
-  <tr>
-    <td WIDTH="13%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Week 14</font></font>
-    <p><font face="Frutiger Linotype" size="4">Apr. 18 -- Apr. 22</font></p>
-  <!--mstheme--></font></td>
-  <font face="Times New Roman, Times">
-    <td WIDTH="21%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><b><font face="Frutiger Linotype" size="4" color="#990000">So</font></b></font><b><font face="Frutiger Linotype" size="4" color="#990000">lutions</font></b><!--mstheme--></font></td>
-  <font face="Times New Roman, Times">
-    <td WIDTH="67%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times">&nbsp;
-  </font>
-    <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Putnam, Robert. 2020.
-        &quot;Chapter 1. What's Past is Prologue&quot; and &quot;Chapter 9:
-        Drift and Mastery&quot; in <i>The Upswing: How America Came Together a
-        Century Ago and How We Can Do It Again</i>. New York: Simon and
-        Schuster.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Boyte, Harry C. 2008.
-        &quot;Citizen Professionals&quot; Pp. 143-157 in <i>The Citizen Solution</i>.
-        Minnesota Historical Society Press.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-    <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-  <!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td WIDTH="13%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Week
-      15</font><p ALIGN="LEFT"><font face="Frutiger Linotype" size="4">Apr. 26
-      -- Apr. 30</font><!--mstheme--></font></td>
-  <font face="Times New Roman, Times">
-    <td WIDTH="21%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><b><font face="Frutiger Linotype" size="4" color="#990000">So</font></b></font><b><font face="Frutiger Linotype" size="4" color="#990000">lutions</font></b>
-    <p><font face="Frutiger Linotype" size="4">&nbsp;</font></p>
-    <!--mstheme--></font></td>
-    <font face="Times New Roman, Times">
-    <td WIDTH="67%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times">&nbsp;
-      <!--mstheme--></font><!--msthemelist--><table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"></font><font face="Frutiger Linotype"><font size="4">Boyte, Harry C.
-        2008. &quot;Renewing Government of the People&quot; Pp. 159-187 in <i>The
-        Citizen Solution</i>. Minnesota Historical Society Press.</font></font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font size="4" face="Frutiger Linotype">Kristoff, Nicholas D. and
-        Sheryl WuDunn. 2014. &quot;A Giving Code&quot; Pp. 301-315 in <i>A Path
-        Appears: Transforming Lives, Creating Opportunity</i>. New York:
-        Vintage.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <font face="Times New Roman, Times">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Birdsong, Mia. 2020. &quot;How
-        We Show Up.&quot; Pp. 221-231 in <i>How We Show Up: Reclaiming Family,
-        Friendship and Community</i>. New York: Hachette</font></font><font face="Frutiger Linotype" size="4">.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <font face="Times New Roman, Times">
-      <!--msthemelist--><tr><td valign="baseline" width="42"><img src="_themes/ricepapr/aricebu1.gif" width="15" height="15" hspace="13"></td><td valign="top" width="100%"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">White, Monica M. 2011.
-          &quot;D-Town Farm: African American Resistance to Food Insecurity and
-          the Transformation of Detroit.&quot; <i>Environmental Practice</i>
-          13(14):406-417.</font><!--mstheme--></font><!--msthemelist--></td></tr>
-      <!--msthemelist--></table><!--mstheme--><font face="Times New Roman, Times">
-    </font><!--mstheme--></font></td>
-  </tr>
-  <tr>
-    <td WIDTH="13%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4">Week 16</font>
-      <p><font face="Frutiger Linotype" size="4">May 2 -- May 5</font><!--mstheme--></font></td>
-    <font face="Times New Roman, Times">
-    <td WIDTH="21%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times"><font face="Frutiger Linotype" size="4" color="#990000"><b>Final
-      Exam</b></font><!--mstheme--></font></td>
-    <td WIDTH="67%" HEIGHT="19"><!--mstheme--><font face="Times New Roman, Times">&nbsp;<!--mstheme--></font></td>
-  </tr>
-</table>
-
 
 # **COURSE NORMS:**
 
