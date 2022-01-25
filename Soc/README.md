@@ -2,9 +2,11 @@ Time | Day | Location
 ---|---|---
 10:20 - 11:15 | MWF | Grise 139
 
+This is a collonade course.
+
 ### Syllabus
 
-Transcribed to Markdown from [the syllabus](http://people.wku.edu/douglas.smith/S270syl2022.html) on January 20th, 2022 by me.
+Transcribed to Markdown from [the syllabus](http://people.wku.edu/douglas.smith/S270syl2022.html) on January 25th, 2022 by me.
 
 ## Introduction to Community, Environment, and Development  
 Spring 2022
@@ -14,7 +16,7 @@ Spring 2022
 Section 701
 CRN: 43033
 
-## Douglas Clayton Smith  
+## Douglas Clayton Smith
 Professor of Sociology
 
 | 131 Grise Hall | WKU Office Phone: \(270\) 745-3131 |
@@ -23,7 +25,7 @@ Professor of Sociology
 | Western Kentucky University | Personal Webpage:  [http://people.wku.edu/douglas.smith/](people.wku.edu/douglas.smith/) |
 | 1906 College Heights Blvd. \#11057 Bowling Green, KY 42101-1057 | Class Webpage: [wku.blackboard.com](wku.blackboard.com) |
 
-**Office Hours:** I will be available Mondays and Wednesdays between 9:00&mdash;10:00 AM and between 12:30&mdash;1:00 PM or by appointment on Zoom.
+**Office Hours:** I will be available Mondays and Wednesdays between 9:00--10:00 AM and between 12:30--1:00 PM or by appointment on Zoom.
 
 **WKU Catalog Description:** Examines the causes, dynamics, and consequences of socio-economic change for people, how they live in communities, and how they relate to the natural world. Survey course for "Community, Environment, & Development" concentration.
 
@@ -77,7 +79,7 @@ When reading you should consider the following:
  - What additional questions does this reading raise for you?  \(Or put another way: if you and the author were stranded on a desert isle, what question would you most like to ask him or her besides "Do you have a boat?\)?
  - How could you use the ideas in addressing real world problems? 
 
-## **COURSE ORGANIZATION: **
+## **COURSE ORGANIZATION:**
 
 This 3-credit hour course will require approximately three hours of direct faculty instruction each week. In addition, you may expect to spend approximately six hours on out-of-class student work for this course each week for approximately 15 weeks. Out-of-class work may include but is not limited to: required reading, online training module completion, written assignments, and studying for exams. 
 
@@ -99,7 +101,7 @@ Drawing from the readings and the class lectures, what are the tools used for sc
 
 # **IV. Exams \(40 points\)**
 
-Exam &mdash; Released at the end of Week 4 and the beginning of Week 10 \(10 points each\)
+Exam -- Released at the end of Week 4 and the beginning of Week 10 \(10 points each\)
 
 Final Exam \(20 points\).
 
@@ -109,9 +111,9 @@ Final Exam \(20 points\).
 
 **Dates** | **Questions** | **Readings**
 --- | --- | ---
-Week 1<br />Jan. 19 &mdash; Jan. 21 | **Theories and Disciplines**<br />What is Sociology?<br />What is Environmental Sociology? | <ul><li>C. Wright Mills, "The Promise"</li><li>Pellow, D. and N. Brehm. 2013. "An Environmental Sociology for the 21st Century."</li><li>Podcast on *The Social Breakdown*: \(Don't\) Ask a Sociologist, Episode 1: What is society?</li></ul>
-Week 2<br />Jan. 24 &mdash; Jan. 28 |**Terms and Definitions**<br />What do sociologists mean by community?<br />What do sociologists mean by environment? | <ul><li>Theodori, Gene and Gerard T. Kyle. "Community, Place, and Decision-Making"</li><li>Emery, Mary, Susan Fey, and Cornelia Flora. 2006. "Using the Community Capitals Framework in Asset-based Community Development." Pp. 5-7 in "Using Community Capitals to Develop Assets for Positive Community Change" *CD Practice* No. 13.</li><li>Bell, Michael Mayerfield. 2009. Selections from "Chapter 1: Environmental Problems and Society" of *An Invitation to Environmental Sociology*. Los Angeles: Pine Forge.</li><li>BONUS: To tie community, memory, heritage and environment all together check out the Podcast &mdash; [*Seed Memory: a podcast on heritage, ecology and community*](https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community), especially Episode 2: Solutions and problems of industrial heritage and Episode 3: Emotions and heritage.</li></ul>
-Week 3 <br />Jan. 31 &mdash; Feb. 4 | **Community and the Persistence of Inequality**<br />What is intersectionality? | <ul><li>Omi, Michael and Howard Winant, "Racial Formation" in *Racial Formation in the United States*.</li><li>Nakano Glenn, Evelyn. 2004. pp. 1-17 in *Unequal Freedom: How Race and Gender Shaped American Citizenship and Labor*.</li></ul>
+Week 1<br />Jan. 19 -- Jan. 21 | **Theories and Disciplines**<br />What is Sociology?<br />What is Environmental Sociology? | <ul><li>C. Wright Mills, "The Promise"</li><li>Pellow, D. and N. Brehm. 2013. "An Environmental Sociology for the 21st Century."</li><li>Podcast on *The Social Breakdown*: \(Don't\) Ask a Sociologist, Episode 1: What is society?</li></ul>
+Week 2<br />Jan. 24 -- Jan. 28 |**Terms and Definitions**<br />What do sociologists mean by community?<br />What do sociologists mean by environment? | <ul><li>Theodori, Gene and Gerard T. Kyle. "Community, Place, and Decision-Making"</li><li>Emery, Mary, Susan Fey, and Cornelia Flora. 2006. "Using the Community Capitals Framework in Asset-based Community Development." Pp. 5-7 in "Using Community Capitals to Develop Assets for Positive Community Change" *CD Practice* No. 13.</li><li>Bell, Michael Mayerfield. 2009. Selections from "Chapter 1: Environmental Problems and Society" of *An Invitation to Environmental Sociology*. Los Angeles: Pine Forge.</li><li>BONUS: To tie community, memory, heritage and environment all together check out the Podcast -- [*Seed Memory: a podcast on heritage, ecology and community*](https://waag.org/en/article/seed-memory-podcast-heritage-ecology-and-community), especially Episode 2: Solutions and problems of industrial heritage and Episode 3: Emotions and heritage.</li></ul>
+Week 3 <br />Jan. 31 -- Feb. 4 | **Community and the Persistence of Inequality**<br />What is intersectionality? | <ul><li>Omi, Michael and Howard Winant, "Racial Formation" in *Racial Formation in the United States*.</li><li>Nakano Glenn, Evelyn. 2004. pp. 1-17 in *Unequal Freedom: How Race and Gender Shaped American Citizenship and Labor*.</li></ul>
 Week 4<br />Feb. 7 -- Feb. 11 | How do community, place, gender and race intersect? | <ul><li>Lipsitz, George. 2011. "Introduction: Race, Place, and Power." Pp. 1-21 in *How Racism Takes Place.* Philadelphia: Temple.</li><li>Thom El-Amin, Enkeshi. 2019. "Chocolate City Way Up South in Appalachia: Black Knoxville at the Intersection of Race, Place, and Region." PhD diss., University of Tennessee. [trace.tennessee.edu/utk\_graddiss/5340](https://trace.tennessee.edu/utk_graddiss/5340). Chapters 1 and 2.</li></ul>
 Week 5<br />Feb. 14 -- Feb. 18 | **Natural\(?\) Disasters**<br />What is so natural about natural disasters? | <ul><li>Gill, Duane. 2007. "Secondary Trauma or Secondary Disaster? Insights from Hurricane Katrina." *Sociological Spectrum* 27:613-632.</li><li>Bullard, Robert D. and Beverly Wright. 2009. "Introduction" and "Race, Place, and the Environment in Post-Katrina New Orleans" pp. 1-49 in *Race, Place, and Environmental Justice after Hurricane Katrina: Struggles to Reclaim, Rebuild, and Revitalize New Orleans and the Gulf Coast.*</li><li>New York: Routledge. *Radio Interview*: "Hurricane Laura Devastates Gulf Coast, Laying Bare Climate Crisis, Environmental Racism".</li><li>Documentary Film: [Cooked: Survival by Zip Code](https://www.youtube.com/watch?v=uy5O1DxeqG0)</li></ul>
 Week 6<br />Feb. 21 -- Feb. 25 | **Social Ecological Determinants of Health**<br />What is Environmental Justice?<br />What is the relationship between race, health, and the environment? | <ul><li>Mohai, Paul. 2018. "Environmental Justice and the Flint Water Crisis." *Michigan Sociological Review* 32: 1-41.</li><li>Boles, Sydney. 2019. "First These Kentuckians Couldn't Drink the Water. Now They Can't Afford It." NPR.</li><li>Dillon and Sze. 2016. "Police Power and Particulate Matters: Environmental Justice and the Spatialities of In/Securities in U.S. Cities."</li><li>Norgaard, Kari Marie, Ron Reed, and Carolina Van Horn. 2011. "A Continuing Legacy: Institutional Racism, Hunger, and Nutritional Justice on the Klamath."Pp. 23-46 in *Cultivating Food Justice: Race, Class, and Sustainability.* Cambridge, MA: The MIT Press.</li><li>Documentary Film: Rubbertown</li></ul>
@@ -120,37 +122,12 @@ Week 8<br />Mar. 7 -- Mar. 11 | **Agriculture and Food Systems**<br />What does 
 Week 9<br />Mar. 14 -- Mar. 18 | --- | **SPRING BREAK**
 Week 10<br />Mar. 21 -- Mar. 25 | **The Challenge of Growth and Development**<br />What is sustainability?<br />What is development? | <ul><li>Hooks, Gregory and Chad L. Smith. 2004. "The Treadmill of Destruction: National Sacrifice Areas and Native Americans" *American Sociological Review* 69:558-575.</li><li>Jorgenson, Andrew K. and Brett Clark. 2012. "Are the Economy and the Environment Decoupling? A Comparative International Study, 1960-2005." *American Journal of Sociology* 118\(1\):1-44.</li></ul>     
 Week 11<br />Mar. 28 -- Apr. 1 | **Climate Change**<br />Why is climate change so contentious?<br />What does the sociological evidence say are the most powerful drivers of climate change beliefs? | <ul><li>Givens, Jennifer E. 2014. "Drivers of Climate Change Beliefs." *Nature Climate Change* 4:1051-1052.</li><li>Klein, Naomi. 2014. "The Right is Right: The Revolutionary Power of Climate Change." pp. 31-63 in *This Changes Everything: Capitalism vs. The Climate.* New York: Simon and Schuster.</li><li>Norgaard, Kari Marie. 2017. "The Sociological Imagination in a Time of Climate Change." *Global and Planetary Change http://dx.doi.org/10.1016/j.gloplacha.2017.09.018*</li></ul>
-
-Week 12<br />Apr. 4 -- Apr. 8
-
-
-**Globalization**
-
-
-What is globalization?
-Shiva, Vandana. 2016. *Stolen Harvest: The Hijacking of the Global Food Supply. *Lexington, KY: University Press of Kentucky. pp. 1-57.     
-Week 13
-
-Apr. 11 -- Apr. 15
-
-
-**Globalization and Gender**
-
-
-How does globalization and capitalism affect women?
-Shiva, Vandana. 2016. *Stolen Harvest: The Hijacking of the Global Food Supply. *Lexington, KY: University Press of Kentucky. pp. 58-127.     Week 14 
-Apr. 18 -- Apr. 22
-**Solutions**     Putnam, Robert. 2020. "Chapter 1. What's Past is Prologue" and "Chapter 9: Drift and Mastery" in *The Upswing: How America Came Together a Century Ago and How We Can Do It Again*. New York: Simon and Schuster. Boyte, Harry C. 2008. "Citizen Professionals" Pp. 143-157 in *The Citizen Solution*. Minnesota Historical Society Press.     
-
-Week 15
-
-
-Apr. 26 -- Apr. 30
-**Solutions** 
- 
-     Boyte, Harry C. 2008. "Renewing Government of the People" Pp. 159-187 in *The Citizen Solution*. Minnesota Historical Society Press. Kristoff, Nicholas D. and Sheryl WuDunn. 2014. "A Giving Code" Pp. 301-315 in *A Path Appears: Transforming Lives, Creating Opportunity*. New York: Vintage. Birdsong, Mia. 2020. "How We Show Up." Pp. 221-231 in *How We Show Up: Reclaiming Family, Friendship and Community*. New York: Hachette. White, Monica M. 2011. "D-Town Farm: African American Resistance to Food Insecurity and the Transformation of Detroit." *Environmental Practice* 13\(14\):406-417.     Week 16 
-May 2 -- May 5
-**Final Exam**    
+Week 12<br />Apr. 4 -- Apr. 8 | **Globalization**<br />What is globalization?<br />Shiva, Vandana. 2016. | <ul><li>Stolen Harvest: The Hijacking of the Global Food Supply.</li><li>Lexington, KY: University Press of Kentucky. pp. 1-57.</li></ul>
+Week 13<br />Apr. 11 -- Apr. 15 | **Globalization and Gender**<br />How does globalization and capitalism affect women? | Shiva, Vandana. 2016. *Stolen Harvest: The Hijacking of the Global Food Supply.* Lexington, KY: University Press of Kentucky. pp. 58-127.
+Week 14<br />Apr. 18 -- Apr. 22 | **Solutions** | 
+<ul><li>Putnam, Robert. 2020. "Chapter 1. What's Past is Prologue" and "Chapter 9: Drift and Mastery" in *The Upswing: How America Came Together a Century Ago and How We Can Do It Again*. New York: Simon and Schuster.</li><li>Boyte, Harry C. 2008. "Citizen Professionals" Pp. 143-157 in *The Citizen Solution*. Minnesota Historical Society Press.</li></ul>
+Week 15<br />Apr. 26 -- Apr. 30 | **Solutions** | <ul><li>Boyte, Harry C. 2008. "Renewing Government of the People" Pp. 159-187 in *The Citizen Solution*. Minnesota Historical Society Press.</li><li>Kristoff, Nicholas D. and Sheryl WuDunn. 2014. "A Giving Code" Pp. 301-315 in *A Path Appears: Transforming Lives, Creating Opportunity*. New York: Vintage.</li><li>Birdsong, Mia. 2020. "How We Show Up." Pp. 221-231 in *How We Show Up: Reclaiming Family, Friendship and Community*. New York: Hachette.</li><li>White, Monica M. 2011. "D-Town Farm: African American Resistance to Food Insecurity and the Transformation of Detroit." *Environmental Practice* 13\(14\):406-417.</li></ul>
+Week 16<br />May 2 -- May 5 | **Final Exam** | ---
 
 # **COURSE NORMS:**
 
