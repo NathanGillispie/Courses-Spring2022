@@ -18,5 +18,8 @@ Under the sociobiological framework, war is explained as the individual male agg
  > ...for human beings, survival is not figured in terms of life and death or as the number of genes one transmits to succeeding generations __pp.39__
 
  For humans we live on after death through names and memories. Existence continues in social arrangements. This challenges the idea that human evolution was influenced entirely by egotism: sexual selection and kin selection perfeclty fit within this framework. Anthropology shows us the example of people on the Trobriand Islands where fathers (not necessarily biological) provide nuture; not genetics. In this matrilinial society, adultery is not even percieved.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 35bd1231bc84fc5c874dc094477d613709218468
